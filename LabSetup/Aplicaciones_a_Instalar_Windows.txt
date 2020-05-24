@@ -1,0 +1,12 @@
+Aplicaciones para practicar explitación y escalación de privilegios. 
+
+# Acceso Inicial
+XAMPP 1.7.2 - https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.7.2/xampp-win32-1.7.2.exe/download?use_mirror=netcologne
+SLMail 5.5 - https://www.exploit-db.com/exploits/16399
+RemoteMouse 3.008 - https://www.exploit-db.com/exploits/46697
+
+# Directory Traversal 
+Zervit 0.4 - https://www.exploit-db.com/exploits/12582
+ 
+# Escalacion de Privilegios
+Iperius Backup 6.1.0 - https://www.exploit-db.com/exploits/46863
