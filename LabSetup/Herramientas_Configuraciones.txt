@@ -6,6 +6,9 @@ Deshabilitar Windows Firewall
 Deshabilitar SmartScreen 
 
 # Instalar 
-7z
-Notepad++
 SystemInternals
+Notepad++
+7z
+Tools de Windows Priv Workshop 
+  - Repositorio de sagishahar (https://github.com/sagishahar/lpeworkshop)
+  - Link: https://drive.google.com/file/d/1Lgg3HXXltB7ZD3F5YSbRl6FX7h_mPzFU/view?usp=sharing
