@@ -1,14 +1,17 @@
 # Configuraciones
+Crear Directorios C:\Temp & C:\Tools
+Excluir Directorios C:\Temp & C:\Tools en Windows Defender 
+
 Deshabilitar Actualizaciones de Windows
 Deshabilitar Windows Defender
-Windows Defender Excluir Folders C:\Temp & C:\Tools
 Deshabilitar Windows Firewall
 Deshabilitar SmartScreen 
 
 # Instalar 
-SystemInternals
-Notepad++
-7z
+SystemInternals - https://download.sysinternals.com/files/SysinternalsSuite.zip
+Notepad++ - https://notepad-plus-plus.org/downloads/
+7z - https://www.7-zip.org/download.html
+
 Tools de Windows Priv Workshop 
   - Repositorio de sagishahar (https://github.com/sagishahar/lpeworkshop)
   - Link: https://drive.google.com/file/d/1Lgg3HXXltB7ZD3F5YSbRl6FX7h_mPzFU/view?usp=sharing
