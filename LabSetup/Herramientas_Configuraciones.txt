@@ -1,6 +1,7 @@
 # Configuraciones
 Deshabilitar Actualizaciones de Windows
 Deshabilitar Windows Defender
+Windows Defender Excluir Folders C:\Temp & C:\Tools
 Deshabilitar Windows Firewall
 Deshabilitar SmartScreen 
 
