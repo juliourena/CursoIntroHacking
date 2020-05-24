@@ -1,0 +1,10 @@
+# Configuraciones
+Deshabilitar Actualizaciones de Windows
+Deshabilitar Windows Defender
+Deshabilitar Windows Firewall
+Deshabilitar SmartScreen 
+
+# Instalar 
+7z
+Notepad++
+SystemInternals
