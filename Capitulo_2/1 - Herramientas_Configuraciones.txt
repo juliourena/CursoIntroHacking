@@ -15,3 +15,5 @@ Notepad++ - https://notepad-plus-plus.org/downloads/
 Tools de Windows Priv Workshop 
   - Repositorio de sagishahar (https://github.com/sagishahar/lpeworkshop)
   - Link: https://drive.google.com/file/d/1Lgg3HXXltB7ZD3F5YSbRl6FX7h_mPzFU/view?usp=sharing
+  - Guardar en C:\Tools
+  - Password: lpeworkshop
