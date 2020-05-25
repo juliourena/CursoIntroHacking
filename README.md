@@ -52,8 +52,8 @@ La programación es esencial para todo profesional de tecnología (opinión pers
 
   [Archivos del Capítulo](Capitulo_6)  
   
-  [6.1 - Programación en Bash (Linux)]()
-  [6.2 - Programación en Python3]()
-  [6.3 - Programación en PowerShell]()
-  [6.4 - Programación en C]()
-  [6.5 - Programación en C#]()
+  [6.1 - Programación en Bash (Linux)]()  
+  [6.2 - Programación en Python3]()  
+  [6.3 - Programación en PowerShell]()  
+  [6.4 - Programación en C]()  
+  [6.5 - Programación en C#]()  
