@@ -12,6 +12,8 @@ Veremos el contenido general del curso, los prerequisitos y la guía que estarem
 ## 2 - Preparación del Laboratorio
 Trabajaremos la preparación del laboratorio para practicar los ejercicios que estaremos realizando, veremos las opciones de hipervisores, instalación de sistemas operativos y configuraciones generales. 
 
+  [Archivos](Capitulo_2)  
+
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
   [2.3 - Instalación de Windows 10](https://youtu.be/vET-9-dqraM)  
