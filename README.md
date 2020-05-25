@@ -15,7 +15,7 @@ Veremos el contenido general del curso, los prerequisitos y la guía que estarem
 ## 2 - Preparación del Laboratorio
 Trabajaremos la preparación del laboratorio para practicar los ejercicios que estaremos realizando, veremos las opciones de hipervisores, instalación de sistemas operativos y configuraciones generales. 
 
-  [Archivos del Capítulo](Capitulo_2)  
+  [Material del Capítulo](Capitulo_2)  
 
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
@@ -26,7 +26,7 @@ Trabajaremos la preparación del laboratorio para practicar los ejercicios que e
 ## 3 - Comandos básicos de Linux
 Las habilidades de trabajo en linux serán escenciales para el hacking/pentesting, en esta sesión exploraremos la linea de comando de linux y discutiremos algunas de las aplicaciones más comunes y su uso. Esta sesión es solo una introducción, el aprendizaje de la linea de comando lo desarrollarás a medida que vayas trabajando y necesitando realizar tareas.
 
-  [Archivos del Capítulo](Capitulo_3)
+  [Material del Capítulo](Capitulo_3)
   
   [3.1 - Comandos básicos de Linux](https://youtu.be/gu09BxzYx38)  
   [3.2 - Permisos de Archivos](https://youtu.be/opaxCMskSWo)  
@@ -35,7 +35,7 @@ Las habilidades de trabajo en linux serán escenciales para el hacking/pentestin
 ## 4 - Comandos básicos de Windows 
 Aprender a utilizar los comandos en Windows es super importante, en esta sesión veremos uso general del cmd y aplicaciones que nos servirán para controlar el sistema operativo desde la consola. Esta sesión es solo una introducción, el aprendizaje de la linea de comando lo desarrollarás a medida que vayas trabajando y necesitando realizar tareas.
 
-  [Archivos del Capítulo](Capitulo_4)  
+  [Material del Capítulo](Capitulo_4)  
   
   [4.1 - Comandos básicos de Windows](https://youtu.be/KBIq-_OAyks)   
   [4.2 - Permisos de Archivos](https://youtu.be/oovTG6q35Hc)  
@@ -44,13 +44,15 @@ Aprender a utilizar los comandos en Windows es super importante, en esta sesión
 ## 5 - Utilidades 
 Necesitarás aprender diferentes herramientas para facilitar tu trabajo en el mundo del hacking. Esta sesión cubriremos diferentes herramientas que usaremos durante este curso. 
 
+  [Material del Capítulo](Capitulo_5)   
+
   [5.1 - SSH Client & Server (Windows & Linux)](https://youtu.be/KkoLM6TIdUk)  
   [5.2 - NetCat "La Navaja Suiza"](https://youtu.be/Bvg9A1kqiZg)  
   
 ## 6 - Programación
 La programación es esencial para todo profesional de tecnología (opinión personal), con esta podrás mejorar/automatizar la forma en que trabajas, como hacker te permitirá comprender mucho mejor lo que atacas y reutilizar el trabajo realizado por otros (usaremos muchos scripts que otros crearon). Cubriremos de forma básica los elementos generales de programación y Scripting. 
 
-  [Archivos del Capítulo](Capitulo_6)  
+  [Material del Capítulo](Capitulo_6)  
   
   [6.1 - Programación en Bash (Linux)]()  
   [6.2 - Programación en Python3]()  
