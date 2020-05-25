@@ -17,8 +17,8 @@ Trabajaremos la preparación del laboratorio para practicar los ejercicios que e
   [2.1 - Preparación del Laboratorio](https://youtu.be/ZBFu6hdFtiY)  
   [2.2 - Instalación de Kali Linux](https://youtu.be/RRrwG2AMcKo)  
   [2.3 - Instalación de Windows 10](https://youtu.be/vET-9-dqraM)  
-  2.4 - Configuraciones Generales()  
-  2.5 - Instalación de Aplicaciones Vulnerables  
+  [2.4 - Configuraciones Generales de Windows](https://youtu.be/bCDvlfHMJ_o)  
+  [2.5 - Instalación de Aplicaciones Vulnerables](https://youtu.be/3d5-cUjbmRw)  
   
 ## 3 - Comandos básicos de Linux
 Las habilidades de trabajo en linux serán escenciales para el hacking/pentesting, en esta sesión exploraremos la linea de comando de linux y discutiremos algunas de las aplicaciones más comunes y su uso. Esta sesión es solo una introducción, el aprendizaje de la linea de comando lo desarrollarás a medida que vayas trabajando y necesitando realizar tareas.
