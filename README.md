@@ -7,7 +7,7 @@ Veremos el contenido general del curso, los prerequisitos y la guía que estarem
 
   1.1 - [Video de Introducción](https://youtu.be/v8E0_Swe89c)  
   1.2 - [Prerequisitos y Consejos](https://youtu.be/S8wV1I9YGpY)  
-  1.3 - Guía general  
+  1.3 - [Guía Del Curso](https://youtu.be/31xRWaBygJA)  
 
 ## 2 - Preparación del Laboratorio
 Trabajaremos la preparación del laboratorio para practicar los ejercicios que estaremos realizando, veremos las opciones de hipervisores, instalación de sistemas operativos y configuraciones generales. 
