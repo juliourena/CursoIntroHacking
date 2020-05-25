@@ -47,8 +47,8 @@ Necesitarás aprender diferentes herramientas para facilitar tu trabajo en el mu
   [5.1 - SSH Client & Server (Windows & Linux)](https://youtu.be/KkoLM6TIdUk)  
   [5.2 - NetCat "La Navaja Suiza"](https://youtu.be/Bvg9A1kqiZg)  
   
-## 6 - Programación & Scripting
-La programación es esencial para todo profesional de tecnología (opinión personal), con esta podrás mejorar/automatizar la forma en que trabajas, como hacker te permitirá comprender mucho mejor lo que atacas y reutilizar el trabajo realizado por otros (usaremos muchos scripts que otros crearon). Cubriremos de forma básica los elementos generales de programació y Scripting.
+## 6 - Programación
+La programación es esencial para todo profesional de tecnología (opinión personal), con esta podrás mejorar/automatizar la forma en que trabajas, como hacker te permitirá comprender mucho mejor lo que atacas y reutilizar el trabajo realizado por otros (usaremos muchos scripts que otros crearon). Cubriremos de forma básica los elementos generales de programación y Scripting. 
 
   [Archivos del Capítulo](Capitulo_6)  
   
@@ -57,3 +57,5 @@ La programación es esencial para todo profesional de tecnología (opinión pers
   [6.3 - Programación en PowerShell]()  
   [6.4 - Programación en C]()  
   [6.5 - Programación en C#]()  
+
+## 7 - Metasploit Framework
