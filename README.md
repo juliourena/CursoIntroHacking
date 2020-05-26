@@ -54,10 +54,9 @@ La programación es esencial para todo profesional de tecnología (opinión pers
 
   [Material del Capítulo](Capitulo_6)  
   
-  [6.1 - Programación en Bash (Linux)]()  
-  [6.2 - Programación en Python3]()  
-  [6.3 - Programación en PowerShell]()  
+  [6.1 - Programación 101](https://youtu.be/gPDTJDzX4Jc)  
+  [6.2 - Programación en Bash (Linux)](https://youtu.be/ZovJvPigGhs)  
+  [6.3 - Programación en Python]()  
   [6.4 - Programación en C]()  
-  [6.5 - Programación en C#]()  
 
 ## 7 - Metasploit Framework
