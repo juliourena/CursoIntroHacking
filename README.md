@@ -22,6 +22,7 @@ Trabajaremos la preparación del laboratorio para practicar los ejercicios que e
   [2.3 - Instalación de Windows 10](https://youtu.be/vET-9-dqraM)  
   [2.4 - Configuraciones Generales de Windows](https://youtu.be/bCDvlfHMJ_o)  
   [2.5 - Instalación de Aplicaciones Vulnerables](https://youtu.be/3d5-cUjbmRw)  
+  [2.6 - Instalación de Sublime Linux](https://youtu.be/PZw9GKqWbcE)
   
 ## 3 - Comandos básicos de Linux
 Las habilidades de trabajo en linux serán escenciales para el hacking/pentesting, en esta sesión exploraremos la linea de comando de linux y discutiremos algunas de las aplicaciones más comunes y su uso. Esta sesión es solo una introducción, el aprendizaje de la linea de comando lo desarrollarás a medida que vayas trabajando y necesitando realizar tareas.
@@ -55,8 +56,8 @@ La programación es esencial para todo profesional de tecnología (opinión pers
   [Material del Capítulo](Capitulo_6)  
   
   [6.1 - Programación 101](https://youtu.be/gPDTJDzX4Jc)  
-  [6.2 - Programación en Bash (Linux)](https://youtu.be/ZovJvPigGhs)  
-  [6.3 - Programación en Python]()  
-  [6.4 - Programación en C]()  
+  [6.2 - Programación en Bash (Linux)](https://youtu.be/ykjZQJ5KwxM)  
+  [6.3 - Programación en Python](https://youtu.be/d2cGHFsyDhc)  
+  [6.4 - Programación en C](https://youtu.be/RGf5EPN5lWg)  
 
 ## 7 - Metasploit Framework
