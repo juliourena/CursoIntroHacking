@@ -61,8 +61,7 @@ La programación es esencial para todo profesional de tecnología (opinión pers
   [6.4 - Programación en C](https://youtu.be/RGf5EPN5lWg)  
 
 ## 7 - Metasploit Framework
-
-  [Material del Caítulo](Capitulo_7)
+Metasploit es una plataforma de prueba de penetración que le permite encontrar, validar y explotar vulnerabilidades. Proporciona la infraestructura, el contenido y las herramientas para realizar pruebas de penetración en sentido general. Es un marco de referencia para el desarrollo de exploits que gracias a la comunidad que lo soporte y Rapid7 se mantiene actualizado con nuevos exploits. Tiene una versión pro (pagada) y la de la comunidad que es la que nosotros utilizaremos (gratis). 
   
   [7.1 - Introducción a Metasploit](https://youtu.be/-8fpQi6mjtg)  
   [7.2 - Uso de módulo de explotación](https://youtu.be/gDcdsQGeLLg)  
