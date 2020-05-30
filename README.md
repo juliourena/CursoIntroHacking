@@ -61,3 +61,14 @@ La programación es esencial para todo profesional de tecnología (opinión pers
   [6.4 - Programación en C](https://youtu.be/RGf5EPN5lWg)  
 
 ## 7 - Metasploit Framework
+
+  [Material del Caítulo](Capitulo_7)
+  
+  [7.1 - Introducción a Metasploit](https://youtu.be/-8fpQi6mjtg)  
+  [7.2 - Uso de módulo de explotación](https://youtu.be/gDcdsQGeLLg)  
+  [7.3 - Bind Shell](https://youtu.be/Ghp7QZANuwo)  
+  [7.4 - Reverse Shell](https://youtu.be/KNwI8zpkPO4)  
+  [7.5 - Payloads (Staged & Stageless)]()  
+  [7.6 - Creando Payloads con Msfvenom]()  
+  [7.7 - Módulos Auxiliares]()  
+  
