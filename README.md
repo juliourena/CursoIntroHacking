@@ -1,5 +1,5 @@
 # Curso de Introducción al Hacking
-Este curso está diseñado para enseñar a las personas que quieren introducirse en el mundo del hacking de una manera práctica. Su estructura pretende ser simple, con videos en promedio de 5 min y no más de 10 min, donde se cubriran los aspectos básicos de Hacking, Conceptos y Técnicas Generales, Preparación del Laboratorio y Ejemplos prácticos de cada uno de los temas a tratar.
+Este curso está diseñado para enseñar a las personas que quieren introducirse en el mundo del hacking de una manera práctica. Su estructura pretende ser simple, con videos en promedio de 5 min y no más de ~~10 min~~ 1 hora, donde se cubriran los aspectos básicos de Hacking, Conceptos y Técnicas Generales, Preparación del Laboratorio y Ejemplos prácticos de cada uno de los temas a tratar.
 
 La estructura del curso está basada en el libro de [Georgia Weidman](https://twitter.com/georgiaweidman) (Penetration Testing: A Hands-on Introduction to Hacking) y las investigaciones del autor [Julio Ureña(PlainText)](https://twitter.com/juliourena), se pretenden tratar temas actuales y relevantes incluso para la preparación del OSCP. 
 
