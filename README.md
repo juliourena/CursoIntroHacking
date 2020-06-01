@@ -67,7 +67,15 @@ Metasploit es una plataforma de prueba de penetración que le permite encontrar,
   [7.2 - Uso de módulo de explotación](https://youtu.be/gDcdsQGeLLg)  
   [7.3 - Bind Shell](https://youtu.be/Ghp7QZANuwo)  
   [7.4 - Reverse Shell](https://youtu.be/KNwI8zpkPO4)  
-  [7.5 - Payloads (Staged & Stageless)]()  
-  [7.6 - Creando Payloads con Msfvenom]()  
-  [7.7 - Módulos Auxiliares]()  
+  [7.6 - Payloads & Msfvenom](https://youtu.be/fzBaUXpWsk4)  
+  [7.7 - Módulos Auxiliares](https://youtu.be/rHr9VKgnCQ0)  
   
+## 8 - Metodologías de Pentesting
+
+## 9 - Enumeración 
+
+## 10 - Analisis de Vulnerabilidades
+
+## 11 - Explotación
+
+## Otros
