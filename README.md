@@ -3,6 +3,11 @@ Este curso está diseñado para enseñar a las personas que quieren introducirse
 
 La estructura del curso está basada en el libro de [Georgia Weidman](https://twitter.com/georgiaweidman) (Penetration Testing: A Hands-on Introduction to Hacking) y las investigaciones del autor [Julio Ureña(PlainText)](https://twitter.com/juliourena), se pretenden tratar temas actuales y relevantes incluso para la preparación del OSCP. 
 
+## Discord
+Decidí crear un canal de Discord para las personas que quieran dar apoyo o necesiten apoyo durante la realización de este curso.
+
+https://discord.gg/NyYC475
+
 ## Tabla de Contenido
 
 ## 1 - Introducción
