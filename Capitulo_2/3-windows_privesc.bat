@@ -30,9 +30,9 @@ for /f "delims=: tokens=*" %%A in ('findstr /b ::: "%~f0"') do (
 echo.
 
 :: Check if the script is running in a high integrity context
-whoami /groups | findstr /i /c:"high mandatory Level" >nul && (
-   goto main
-) || (
+whoami /groups | findstr /i /c:"high mandatory Level" >nul && (goto main) || 
+whoami /groups | findstr /i /c:"nivel obligatorio alto" >nul && (goto main) || 
+(
    call :color 0c "[-] 'run as Administrator' is required to run this file. Exiting.."
    echo.
    del /f X
