@@ -8,6 +8,10 @@ Decidí crear un canal de Discord para las personas que quieran dar apoyo o nece
 
 https://discord.gg/NyYC475
 
+## Vista Previa del Curso 
+
+[![Video Inicial](http://img.youtube.com/vi/v8E0_Swe89c/0.jpg)](http://www.youtube.com/watch?v=v8E0_Swe89c)
+
 ## Tabla de Contenido
 
 ## 1 - Introducción
