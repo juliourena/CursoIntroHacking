@@ -1,0 +1,11 @@
+PTES
+http://www.pentest-standard.org/index.php/Main_Page
+
+OSSTMM
+https://www.isecom.org/OSSTMM.3.pdf
+
+OWASP
+https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies
+
+NIST
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
