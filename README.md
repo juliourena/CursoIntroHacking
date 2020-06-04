@@ -80,6 +80,9 @@ Metasploit es una plataforma de prueba de penetración que le permite encontrar,
   [7.7 - Módulos Auxiliares](https://youtu.be/rHr9VKgnCQ0)  
   
 ## 8 - Metodologías de Pentesting
+El correcto uso de una metodología durante la ejecución de una prueba de penetración será determinante para obtener el resultado deseado. Una metodología de pentesting ayudará a definir cada una de las etapas y la forma en que se ejecutará la prueba de penetración. En este capítulo utilizaremos la metodología PTES como ejemplo.
+
+  [8.1 - Metodologías de Pentesting](https://youtu.be/xcqph80f9l0)  
 
 ## 9 - Enumeración 
 
