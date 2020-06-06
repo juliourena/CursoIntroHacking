@@ -87,6 +87,9 @@ El correcto uso de una metodología durante la ejecución de una prueba de penet
   [8.1 - Metodologías de Pentesting](https://youtu.be/xcqph80f9l0)  
 
 ## 9 - Enumeración 
+La enumeración es la etapa donde colectamos tanta información como sea posible de nuestro objetivo. Es una parte fundamental en toda prueba de penetración y comunmente determinante para el exito de una prueba de penetración. En este capitulo discutiremos de la enumeración en sentido general y hablaremos de tecnicas de enumeración pasivas y activas. 
+
+  [9.1 - Enumeración](https://youtu.be/206mEW0oUQc)
 
 ## 10 - Analisis de Vulnerabilidades
 
