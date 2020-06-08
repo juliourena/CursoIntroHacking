@@ -201,7 +201,7 @@ call :color 0f "[*] Configuring Exercise 11 - Password Mining (Configuration Fil
 echo.
 call :write_file Unattend.xml
 call :calculate_md5 Unattend.xml, ret_md5_val
-call :confirm_md5_hash "63f7269bbc53e36d2a8c323721313f9c", "%ret_md5_val%" || goto :eof
+call :confirm_md5_hash "63 f7 26 9b bc 53 e3 6d 2a 8c 32 37 21 31 3f 9c", "%ret_md5_val%" || goto :eof
 call :move_file Unattend.xml, "C:\Windows\Panther"
 call :write_file SiteList.xml
 call :calculate_md5 SiteList.xml, ret_md5_val
