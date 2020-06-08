@@ -1,5 +1,7 @@
-:: Modificación del script creado por Sagi Shahar (@s4gi_) para Windows 10
+:: Modificación del script creado por Sagi Shahar (@s4gi_) para Windows 10 1607 en adelante
 :: Versión original: https://github.com/sagishahar/lpeworkshop
+:: Utilizado en el curso de introduccion a hacking y pentesting 
+:: https://github.com/juliourena/CursoIntroHacking
 
 :: Local Privilege Escalation Workshop - Sagi Shahar (@s4gi_)
 @echo off
@@ -23,6 +25,10 @@ for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1)
 :::
 :::     Local Privilege Escalation Workshop - Windows Installer
 :::                      Sagi Shahar (@s4gi_)
+:::
+:::	Modificado por PlainText (@JulioUrena) para el curso de Introduccion a Pentesting
+:::	https://github.com/juliourena/CursoIntroHacking
+:::	Script para Windows 10 1607 y superior
 
 for /f "delims=: tokens=*" %%A in ('findstr /b ::: "%~f0"') do (
   echo(%%A
