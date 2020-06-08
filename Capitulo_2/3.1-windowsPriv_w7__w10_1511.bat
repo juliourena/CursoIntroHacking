@@ -26,7 +26,7 @@ for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1)
 :::     Local Privilege Escalation Workshop - Windows Installer
 :::                      Sagi Shahar (@s4gi_)
 :::
-:::	Modificado por PlainText (@JulioUrena) para el curso de Introduccion a Pentesting
+:::	Modificado por PlainText (@JulioUrena) 
 :::	https://github.com/juliourena/CursoIntroHacking
 :::	Script para Windows 7 y hasta Windows 10 1511
 
