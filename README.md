@@ -95,6 +95,11 @@ La enumeración es la etapa donde colectamos tanta información como sea posible
   [9.2 - Enumeración Pasiva](https://youtu.be/x8LQ9WMZ2zE)  
   [9.3 - Herramienta para Enumeración: theHarvester](https://youtu.be/4XIA_njcwRo)  
   [9.4 - Enumeración de DNS](https://youtu.be/0NuWxrW37F8)  
+  [9.5 - Redes Básico](https://youtu.be/SVq6dXFi7ZY)  
+  [9.6 - Nmap Descubrimiento de equipos en la red](https://youtu.be/i_9Rc3xGXKM)  
+  [9.7 - Nmap TCP Scan](https://youtu.be/K2Qlr_hEe0o)  
+  [9.8 - Nmap Scripts](https://youtu.be/3P82Ll_istU)  
+  [9.9 - Nmap UDP & Enumeración de SNMP](https://youtu.be/3QwiRDhbOgQ)  
 
 ## 10 - Analisis de Vulnerabilidades
 
