@@ -101,7 +101,13 @@ La enumeración es la etapa donde colectamos tanta información como sea posible
   [9.8 - Nmap Scripts](https://youtu.be/3P82Ll_istU)  
   [9.9 - Nmap UDP & Enumeración de SNMP](https://youtu.be/3QwiRDhbOgQ)  
 
-## 10 - Analisis de Vulnerabilidades
+## 10 - Análisis de Vulnerabilidades
+El análisis de de vulnerabilidades es la etapa donde tratamos de identificar vulnerabilidades en los servicios que estamos revisando. Activamente tratamos de encontrar problemas en los servicios que nos permitan comprometer el sistema en la fase de explotación. Aunque existen diferentes herramientas que automaticamente encontrarán vulnerabilidades en los sistemas, es importante la revisión manual.
+
+  [10.0 - Metasploitable](https://youtu.be/IU7rKry6c0Y)  
+  [10.1 - Nessus](https://youtu.be/Rji6lKeZUvA)  
+  [10.2 - NMAP Scripts](https://youtu.be/r53oZKkyhRk)  
+  [10.3 - Páginas Web](https://youtu.be/Cj6GT4s6tbQ)   
 
 ## 11 - Explotación
 
