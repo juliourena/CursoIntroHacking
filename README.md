@@ -110,5 +110,14 @@ El análisis de de vulnerabilidades es la etapa donde tratamos de identificar vu
   [10.3 - Páginas Web](https://youtu.be/Cj6GT4s6tbQ)   
 
 ## 11 - Explotación
+Finalmente llegamos a la parte divertida, "Explotación", en esta parte nuestro trabajo será confirmar que las vulnerabilidades que hemos descubierto realmente tienen un efecto sobre el sistema analizado y que podemos ganar acceso o abusar de las vulnerabilidades. 
+
+  [11.1 - Uso de Módulo de Metasploit](https://youtu.be/3XyN7n-4QRA)
+  [11.2 - Uso de Metasploit para Web Apps](https://youtu.be/kRnpiStmQMI)
+  [11.3 - Abuso de Configuraciones por Defecto](https://youtu.be/ITVb3CuIJcU)
+  [11.4 - Modificación de Exploits Públicos](https://youtu.be/zJRKCCWJRoE)
+
+## 12 - Explotación de Aplicaciones Web
+La mayoría de las empresas crean sus propias aplicaciones web y aunque muchas herramientas automáticas ayudan a detectar vulnerabilidades en las aplicaciones web, nada puede reemplazar a un pentester con un proxy analizando el funcionamiento de una página web y encontrando fallas. En esta sesión, nos enfocaremos en la detección manual y algunos elementos automáticos, de vulnerabilidades en páginas web.
 
 ## Otros
