@@ -120,4 +120,6 @@ Finalmente llegamos a la parte divertida, "Explotación", en esta parte nuestro 
 ## 12 - Explotación de Aplicaciones Web
 La mayoría de las empresas crean sus propias aplicaciones web y aunque muchas herramientas automáticas ayudan a detectar vulnerabilidades en las aplicaciones web, nada puede reemplazar a un pentester con un proxy analizando el funcionamiento de una página web y encontrando fallas. En esta sesión, nos enfocaremos en la detección manual y algunos elementos automáticos, de vulnerabilidades en páginas web.
 
+  [12.0 - XXS & SQL Injection](https://youtu.be/mAjBspSinCY)
+
 ## Otros
