@@ -1,5 +1,5 @@
-1 HackConRD  Marzo
-2	BlackHat  Agosto
-3	Defcon		Agosto
-4	DragonJar	Septiembre
+1 HackConRD Marzo
+2 BlackHat  Agosto
+3	Defcon    Agosto
+4	DragonJar Septiembre
 5 Ekoparty Noviembre
