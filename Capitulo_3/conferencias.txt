@@ -1,6 +1,5 @@
-1	DerbyCon	Septiembre
-2	BlackHat	Agosto
+1 HackConRD  Marzo
+2	BlackHat  Agosto
 3	Defcon		Agosto
-4	CoronaC0n	Abril
-5	RedTeamRD	Diciembre
-6	BSidesPR	Febrero
+4	DragonJar	Septiembre
+5 Ekoparty Noviembre
